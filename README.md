@@ -28,7 +28,7 @@
 ### 1. Clone o repositório
 
 ```bash
-git clone https://gitlab.com/alisson.werner.ifpb/POO.2026.1.git
+git clone https://github.com/kaua-L1/Projeto_POO_2026.1.git
 cd POO.2026.1
 ```
 
